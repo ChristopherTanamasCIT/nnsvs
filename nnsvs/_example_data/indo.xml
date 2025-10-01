@@ -301,7 +301,7 @@
         <beam number="1">begin</beam>
         <lyric number="1" default-x="6.58" default-y="-50.51" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>こ</text>
+          <text>ta</text>
           </lyric>
         </note>
       <note default-x="41.27" default-y="-25.00" dynamics="111.11">
@@ -317,7 +317,7 @@
         <beam number="2">backward hook</beam>
         <lyric number="1" default-x="6.58" default-y="-50.51" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>la</text>
+          <text>nah</text>
           </lyric>
         </note>
     </measure>
